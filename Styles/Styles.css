@@ -1,0 +1,26 @@
+
+body{
+    image-rendering: auto;
+    background-image: url('https://images4.alphacoders.com/113/1139089.png'); 
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+img{
+
+    position: fixed;
+}
+
+.centerbox{
+    margin: 40px 30px 40px 30px;
+}
+
+.tab-content .tab-pane .card-content{
+    height: 700px;
+}
+
+iframe{
+    height: 700px;
+    width: 100%;
+}
+
